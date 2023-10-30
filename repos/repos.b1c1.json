@@ -44,8 +44,8 @@
     "AnyKernel3": {
       "use": false,
       "release": false,
-      "repo": "https://github.com/easterNday/AnyKernel3/",
-      "branch": "14p"
+      "repo": "https://github.com/akzzy/AnyKernel3/",
+      "branch": "b1c1"
     }
   }
 ]
