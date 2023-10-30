@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "Pixebuild_Bluecross",
       "repo": "https://github.com/cool585/android_kernel_google_bluecross",
-      "branch": "14p",
+      "branch": "14pb",
       "device": "b1c1",
       "defconfig": "b1c1_defconfig"
     },
