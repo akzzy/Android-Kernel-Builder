@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Wayne_KenrlSU_Google",
-      "repo": "https://github.com/Diva-Room/Miku_kernel_xiaomi_wayne",
-      "branch": "TDA",
-      "device": "wayne",
-      "defconfig": "vendor/wayne_defconfig"
+      "name": "Pixebuild_Bluecross",
+      "repo": "https://github.com/cool585/android_kernel_google_bluecross",
+      "branch": "14p",
+      "device": "b1c1",
+      "defconfig": "b1c1_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
@@ -42,10 +42,10 @@
       }
     },
     "AnyKernel3": {
-      "use": false,
-      "release": false,
+      "use": true,
+      "release": true,
       "repo": "https://github.com/easterNday/AnyKernel3/",
-      "branch": "thyme"
+      "branch": "14p"
     }
   }
 ]
